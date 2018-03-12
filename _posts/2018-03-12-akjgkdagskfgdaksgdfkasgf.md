@@ -1,18 +1,16 @@
 ---
 inFeed: true
-description: akjgkdagskfgdaksgdfkasgf
-dateModified: '2018-03-12T21:21:12.877Z'
-datePublished: '2018-03-12T21:21:13.447Z'
+description: 'https://youtu.be/Ba63OliduUc'
+dateModified: '2018-03-12T21:21:22.036Z'
+datePublished: '2018-03-12T21:21:22.503Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-03-12-akjgkdagskfgdaksgdfkasgf.md
 starred: false
 datePublishedOriginal: '2018-03-12T21:21:13.447Z'
-sourcePath: _posts/2018-03-12-akjgkdagskfgdaksgdfkasgf.md
 _type: Blurb
 
 ---
-[akjgkdagskfgdaksgdfkasgf][0]
-
-[0]: https://youtu.be/Ba63OliduUc
+https://youtu.be/Ba63OliduUc
