@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-12T20:54:37.430Z'
-datePublished: '2018-03-12T20:54:37.943Z'
+dateModified: '2018-03-12T20:56:18.589Z'
+datePublished: '2018-03-12T20:56:19.355Z'
 title: ''
 author: []
 publisher: {}
@@ -15,4 +15,4 @@ _type: Blurb
 ---
 [Open][0]
 
-[0]: https://youtu.be/Ba63OliduUc
+[0]: https://www.youtube.com/embed/Ba63OliduUc
