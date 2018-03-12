@@ -4,15 +4,22 @@
         <description><![CDATA[mocoll screenprotectors]]></description>
         <link>https://thegrid.ai/mocoll/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Mar 2018 21:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Mar 2018 21:25:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mocoll/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Mar 2018 21:06:55 GMT</pubDate>
+        <pubDate>Mon, 12 Mar 2018 21:25:28 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<iframe src="https://the-grid.github.io/ed-location/?latitude=48.69096039092549&longitude=7.03125&zoom=2"></iframe>]]></description>
             <link>https://thegrid.ai/mocoll/2bacf082-fbab-4ddb-b062-162931503128/index.html</link>
             <guid isPermaLink="false">2bacf082-fbab-4ddb-b062-162931503128</guid>
             <pubDate>Mon, 12 Mar 2018 20:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS16_MLy0p1UtK1XdKNDP2z8lMKQ1N5gIAnX4KAQ" height="244"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS16_MLy0p1UtK1XdKNDP2z8lMKQ1N5gIAnX4KAQ</link>
+            <guid isPermaLink="false">27c310ff-b6a2-4056-93d9-14f6f7a0abcf</guid>
+            <pubDate>Mon, 12 Mar 2018 21:25:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
