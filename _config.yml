@@ -120,9 +120,6 @@ purpose:
   - type: contact
     url: 'mailto:info@mocoll-europe.com'
     label: contact us
-  - type: external
-    url: 'https://youtu.be/Ba63OliduUc'
-    label: 'https://youtu.be/Ba63OliduUc'
 title: mocoll screenprotectors
 description: the benchmark in screen protectors as brand & manufacturer
 favicon: >-
