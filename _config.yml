@@ -1,3 +1,5 @@
+layout_spectrum: 0.13913790270160553
+typography_spectrum: 0.4148681377631492
 color:
   brandColors:
     - '#FFFFFF'
@@ -5,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.19250930822454393
-  lightness: 0.9270643112249672
-  saturation: 0.9986326927319169
-  rhythmicContrast: 0.494605632731691
+  brandStrength: 0.4020708079924715
+  lightness: 0.922589277549656
+  saturation: 0.7770388766010246
+  rhythmicContrast: 0.911094266942859
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: MOCOll
-layout_spectrum: 0.44993220921605825
-typography_spectrum: 0.23273237142711878
+name: .
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -74,7 +74,6 @@ purpose:
     label: contact us
 title: mocoll screenprotectors
 description: the benchmark in screen protectors as brand & manufacturer
-github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/37de1082-bc13-4fde-84dd-66a166fd9929.png
 logo: >-
@@ -83,3 +82,4 @@ author:
   name: MOCOll SCREENPROTECTORS by STOCKXWERK e.K.
   email: info@mocoll-europe.com
   url: 'http://www.mocoll-europe.com'
+github: true
