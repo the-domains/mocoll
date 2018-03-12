@@ -1,0 +1,84 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.19250930822454393
+  lightness: 0.9270643112249672
+  saturation: 0.9986326927319169
+  rhythmicContrast: 0.494605632731691
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: MOCOll
+layout_spectrum: 0.44993220921605825
+typography_spectrum: 0.23273237142711878
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5132078-ac12-41de-8a89-fe9c9800fb2f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5132078-ac12-41de-8a89-fe9c9800fb2f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4044bafc-ac23-4f69-874a-f80ad56fe47e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4044bafc-ac23-4f69-874a-f80ad56fe47e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: contact
+    url: 'mailto:info@mocoll-europe.com'
+    label: contact us
+title: mocoll screenprotectors
+description: the benchmark in screen protectors as brand & manufacturer
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/37de1082-bc13-4fde-84dd-66a166fd9929.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/404484d4-ffdc-4b78-860e-72400db9223e.png
+author:
+  name: MOCOll SCREENPROTECTORS by STOCKXWERK e.K.
+  email: info@mocoll-europe.com
