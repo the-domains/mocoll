@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: .
+name: ' '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -120,7 +120,7 @@ purpose:
   - type: contact
     url: 'mailto:info@mocoll-europe.com'
     label: contact us
-title: mocoll screenprotectors
+title: MOCOll SCREEN PROTECTORS
 description: the benchmark in screen protectors as brand & manufacturer
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/37de1082-bc13-4fde-84dd-66a166fd9929.png
