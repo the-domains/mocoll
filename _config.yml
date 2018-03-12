@@ -109,7 +109,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -121,6 +120,9 @@ purpose:
   - type: contact
     url: 'mailto:info@mocoll-europe.com'
     label: contact us
+  - type: external
+    url: 'https://youtu.be/Ba63OliduUc'
+    label: 'https://youtu.be/Ba63OliduUc'
 title: mocoll screenprotectors
 description: the benchmark in screen protectors as brand & manufacturer
 favicon: >-
