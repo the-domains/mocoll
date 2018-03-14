@@ -120,9 +120,6 @@ purpose:
   - type: contact
     url: 'mailto:info@mocoll-europe.com'
     label: contact us
-  - type: contact
-    url: 'mailto:robertson@mocoll-eurpe.com'
-    label: order now
 title: MOCOll ®
 description: the benchmark in screen protectors as brand & manufacturer
 favicon: >-
