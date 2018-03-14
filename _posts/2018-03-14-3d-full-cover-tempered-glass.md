@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Our best glass to protect your display on 4 iPhone & Samsung mobile phones
-dateModified: '2018-03-14T19:06:49.596Z'
-datePublished: '2018-03-14T19:06:50.110Z'
+dateModified: '2018-03-14T19:12:53.393Z'
+datePublished: '2018-03-14T19:12:53.744Z'
 title: '3D Full Cover tempered glass '
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-03-14-3d-full-cover-tempered-glass.md
 starred: false
 datePublishedOriginal: '2018-03-14T19:06:50.110Z'
-sourcePath: _posts/2018-03-14-3d-full-cover-tempered-glass.md
 _type: Blurb
 
 ---
