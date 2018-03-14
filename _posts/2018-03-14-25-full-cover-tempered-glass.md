@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: The 2nd generation of screen protection with tempered glass.
-dateModified: '2018-03-14T19:12:53.393Z'
-datePublished: '2018-03-14T19:12:53.745Z'
+description: The full cover screen protection with tempered glass.
+dateModified: '2018-03-14T19:13:40.939Z'
+datePublished: '2018-03-14T19:13:41.679Z'
 title: 2.5 Full Cover tempered glass
 author: []
 publisher: {}
@@ -13,4 +13,4 @@ datePublishedOriginal: '2018-03-14T19:09:58.581Z'
 _type: Blurb
 
 ---
-![The 2nd generation of screen protection with tempered glass.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d897db-403e-4325-8445-0163a481bfd9.jpg)
+![The full cover screen protection with tempered glass.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d897db-403e-4325-8445-0163a481bfd9.jpg)
